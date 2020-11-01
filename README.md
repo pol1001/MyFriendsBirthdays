@@ -1,1 +1,1 @@
-# MyBirthdays
+# MyFriendsBirthdays
